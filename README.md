@@ -29,4 +29,4 @@ JavaScript – Interactivity, animations, and dynamic content.
 Font Awesome – Icons for social media and skills.
 Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/personal-portfolio.git
+git clone https://https://github.com/chandrakala-mp/personal-portfolio.git
