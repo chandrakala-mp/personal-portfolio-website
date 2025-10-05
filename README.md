@@ -27,3 +27,6 @@ CSS3 – Styling, animations, and responsive design.
 JavaScript – Interactivity, animations, and dynamic content.
 
 Font Awesome – Icons for social media and skills.
+Clone the repository
+
+git clone https://github.com/YOUR-USERNAME/personal-portfolio.git
